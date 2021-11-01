@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongoose": "^6.0.8"
+  },
+  "name": "iaw",
+  "version": "1.0.0",
+  "main": "mongo_test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
